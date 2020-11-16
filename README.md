@@ -6,3 +6,7 @@ As a business owner
 I want to be able to view and manage the departments, roles, and employees in my company
 So that I can organize and plan my business
 
+Technologies used: Javascript, jQuery, Node, Express, SQL
+
+<iframe src="https://drive.google.com/file/d/1NoTC4GLqi6ODT5u7n43rmw9_SZOpSDfA/preview" width="640" height="480"></iframe>
+
