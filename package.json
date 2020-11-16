@@ -1,27 +1,17 @@
 {
-  "name": "employeeTracker",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "Homework12 Employee Tracker",
-  "main": "server.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node index"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aanness/employeeTracker.git"
-  },
-  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aanness/employeeTracker/issues"
-  },
-  "homepage": "https://github.com/aanness/employeeTracker#readme",
   "dependencies": {
     "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
-    "inquirer": "^7.0.1",
+    "inquirer": "^7.0.0",
     "mysql": "^2.17.1"
   }
 }
